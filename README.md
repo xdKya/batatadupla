@@ -1,1 +1,2 @@
-# batatadupla
+# synchronousBallMovement
+Ball moving synchronously
